@@ -1,0 +1,17 @@
+---
+en-AW:
+  notification_mailer:
+    favourite:
+      body: 'Your snoot was booped by %{name}:'
+      subject: "%{name} booped your snoot"
+    follow:
+      body: "%{name} joined your pack!"
+      subject: "%{name} joined your pack"
+    mention:
+      body: 'You were awooed at by %{name} in:'
+      subject: You were awooed at by %{name}
+    reblog:
+      body: '%{name} joined your howl:'
+      subject: "%{name} joined your howl"
+    status:
+      subject: "%{name} just awooed"

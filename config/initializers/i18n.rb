@@ -20,6 +20,7 @@ Rails.application.configure do
     :de,
     :el,
     :en,
+    :'en-AW',
     :'en-GB',
     :eo,
     :es,
